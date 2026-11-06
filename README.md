@@ -15,7 +15,7 @@
 
 ## 已收录指令
 
-- [科研绘图统一标准](plotting/figure-standards.md)：A4 竖版、Arial 7 pt、纯黑色文字与 0.5 pt 线条，优先输出各元素可编辑的 PDF 和 SVG。
+- [科研绘图统一标准 / Scientific Figure Standards（中英文）](plotting/figure-standards.md)：A4 竖版、Arial 7 pt、纯黑色文字与 0.5 pt 线条，优先输出各元素可编辑的 PDF 和 SVG。
 
 ## 使用方式
 
