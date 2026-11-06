@@ -15,6 +15,8 @@
 
 ## 已收录指令
 
+- [GitHub 提交与推送身份规范 / GitHub Commit and Push Identity Policy（中英文）](github/commit-push-identity.md)：使用仓库持有账号提交和推送，不引入 bot、Codex 或其他 AI／自动化账号署名。
+
 - [科研绘图统一标准 / Scientific Figure Standards（中英文）](plotting/figure-standards.md)：A4 竖版、Arial 7 pt、纯黑色文字与 0.5 pt 线条，优先输出各元素可编辑的 PDF 和 SVG。
 
 ## 使用方式
