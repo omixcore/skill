@@ -2,7 +2,11 @@
 
 适用于论文正文、综述、引言、讨论、图注、补充材料及其他需要引用学术文献的写作任务。**任何文献都必须先核查真实性，再核查其是否合理且足以支撑对应语句，完成两步核查后才能引用。**
 
-## 1. 第一步：核查文献真实性 / Verify That the Reference Exists
+This standard applies to manuscript text, reviews, introductions, discussions, figure legends, supplementary materials, and any other writing that cites academic literature. **Every reference must first be verified as authentic and then assessed for its relevance and ability to support the specific claim before it is cited.**
+
+## 中文版
+
+### 1. 第一步：核查文献真实性
 
 引用前先确认文献真实存在，不能仅凭搜索摘要、他人参考文献列表、AI 生成内容或看似合理的 DOI 推断文献存在。
 
@@ -28,7 +32,7 @@
 - 如果文献记录不完整或无法找到可靠记录，标记为“真实性未确认”，不得将其作为已核实的正式文献引用。
 - 不得编造作者、标题、期刊、年份、卷期页码、DOI 或 PMID。
 
-## 2. 第二步：核查文献是否能够支撑具体语句 / Verify Claim-Level Relevance and Support
+### 2. 第二步：核查文献是否能够支撑具体语句
 
 文献真实存在，并不代表它可以支持当前句子。必须将引用与其所支持的具体陈述逐条对应核查。
 
@@ -42,7 +46,7 @@
 - **原文是否真正支持**：检查正文中相关结果、图表、方法和讨论，而不只看标题、摘要或关键词。
 - **是否存在相反或限制性证据**：不能只挑选支持预期观点的文献；应关注原文中的反例、限定条件和作者明确指出的局限。
 
-## 3. 第三步：建立“语句—证据”对应关系 / Map Each Claim to Its Evidence
+### 3. 第三步：建立“语句—证据”对应关系
 
 引用应以具体语句或具体事实为单位核查，而不是以整段文字为单位笼统判断。
 
@@ -59,7 +63,7 @@
 - **不支持（No support）**：文献没有提供对应证据，即使主题相近也不能引用来支撑该语句。
 - **存在矛盾（Contradictory evidence）**：文献结果与语句相反，应如实处理，不能将其作为支持性引用。
 
-## 4. 第四步：确认后再引用 / Cite Only After Verification
+### 4. 第四步：确认后再引用
 
 只有完成真实性和支撑性两步核查后，才能将文献放入正文或参考文献列表。
 
@@ -71,7 +75,7 @@
 - 如果只能核实文献存在，但无法访问或检查足够的原文内容，应明确标注“支撑性尚未核实”，不能声称已确认该文献支持该语句。
 - 发现原有引用不合理时，应指出问题并建议删除、替换或改写对应语句，而不是保留错误引用。
 
-## 5. 写作交付前检查清单 / Pre-submission Checklist
+### 5. 写作交付前检查清单
 
 - [ ] 每条参考文献均有可追溯的真实记录。
 - [ ] 标题、作者、期刊、年份和 DOI 等书目信息一致。
@@ -85,3 +89,89 @@
 - [ ] 正文引用与文末参考文献列表能够一一对应。
 
 **核心顺序：先确认文献真实存在，再确认原文确实支持具体语句，最后才引用。文献真实不等于引用合理，主题相关也不等于证据支持。**
+
+## English Version
+
+### 1. Step One: Verify That the Reference Exists
+
+Confirm that every cited publication genuinely exists. Do not infer its existence from search snippets, another paper's reference list, AI-generated text, or a DOI that merely looks plausible.
+
+Verify at least the following bibliographic details:
+
+- Article title.
+- Authors and author order.
+- Journal or publication source.
+- Publication year.
+- DOI, PMID, article number, or another traceable identifier, where applicable.
+
+Cross-check the record using reliable sources, preferably:
+
+1. The publisher's official article page and DOI registration record.
+2. Scholarly search or indexing databases such as Crossref, PubMed, Web of Science, Scopus, and Google Scholar.
+3. Authoritative subject databases, research institutions, or official publication platforms.
+
+Verification requirements:
+
+- The DOI must resolve to a record whose title, authors, and publication details match the intended reference.
+- Check for corrections, retractions, Expressions of Concern, or updated versions.
+- Clearly distinguish preprints, conference abstracts, theses, and formally peer-reviewed publications.
+- If the bibliographic record is incomplete or cannot be confirmed through a reliable source, label the reference as unverified and do not present it as an authenticated formal publication.
+- Never invent authors, titles, journals, years, volume or issue numbers, page ranges, DOIs, or PMIDs.
+
+### 2. Step Two: Verify That the Reference Supports the Specific Claim
+
+The existence of a genuine publication does not mean that it supports the sentence in which it is cited. Assess each citation against the exact statement it is intended to support.
+
+Check the following:
+
+- **Research question:** Does the study address the scientific question in the sentence, rather than merely sharing keywords?
+- **Study subject:** Are the species, cultivars, cell types, tissues, developmental stages, treatments, or study populations comparable?
+- **Research content:** Does the paper actually investigate the gene, protein, pathway, phenotype, mechanism, or method being described?
+- **Evidence type:** Experimental validation, genetic evidence, omics associations, computational predictions, review statements, and hypotheses have different evidential strengths and must not be treated as interchangeable.
+- **Strength of conclusion:** Correlation must not be described as causation; expression changes alone do not establish function; predictions must not be presented as experimental validation; and findings under specific conditions must not be generalized to all species or environments without evidence.
+- **Support in the original text:** Inspect the relevant results, figures, methods, and discussion, rather than relying only on the title, abstract, or keywords.
+- **Contradictory or limiting evidence:** Do not select only studies that support an expected conclusion. Consider counterexamples, boundary conditions, and limitations explicitly acknowledged by the authors.
+
+### 3. Step Three: Map Each Claim to Its Evidence
+
+Evaluate citations at the level of individual sentences or specific factual claims, rather than assigning a general judgment to an entire paragraph.
+
+Use a verification record such as:
+
+| Statement or claim | Reference authenticity | Location of evidence in the source | Degree of support | Action |
+| --- | --- | --- | --- | --- |
+| Specific statement in the manuscript | Verified / Unverified | Page, section, figure, table, or supplementary material | Direct / Partial / None / Contradictory | Retain / Revise / Replace / Remove |
+
+Interpret the degree of support as follows:
+
+- **Direct support:** The original data or conclusion directly addresses the claim; the reference may be cited as support.
+- **Partial support:** The paper supports only part of the statement, a specific condition, or a weaker version of the claim. Narrow the statement or reduce its strength.
+- **No support:** The paper provides no relevant evidence. A shared topic or keyword is not sufficient justification for citation.
+- **Contradictory evidence:** The findings conflict with the statement. Report the conflict accurately and do not cite the paper as supporting evidence.
+
+### 4. Step Four: Cite Only After Verification
+
+A reference may be added to the manuscript text or reference list only after both authenticity and claim-support checks have been completed.
+
+- Prefer original research that directly provides the evidence. Reviews may be used for broad background but should not replace primary evidence for key mechanisms or experimental findings.
+- For sentences containing multiple subclaims, assign appropriate references to each claim rather than using one citation to support several unrelated conclusions.
+- Place citations immediately after the statements they support so that the scope of the evidence is clear.
+- If a paper supports a claim only under limited conditions, specify the relevant species, tissue, developmental stage, treatment, or study scope.
+- Do not add references merely to increase citation counts. Prefer the most direct, reliable, and relevant evidence.
+- If the existence of a paper is confirmed but the original text cannot be accessed or adequately inspected, label its claim-support status as unverified. Do not state that its support has been confirmed.
+- If an existing citation is inappropriate, explain the problem and recommend removing or replacing the reference or revising the statement.
+
+### 5. Pre-submission Checklist
+
+- [ ] Every reference has a traceable bibliographic record.
+- [ ] The title, authors, journal, year, and DOI or other identifiers are consistent.
+- [ ] Retraction, correction, and publication-status information has been checked where applicable.
+- [ ] Each citation is mapped to a specific sentence or claim.
+- [ ] Relevant original results, figures, or sections have been inspected—not just the title and abstract.
+- [ ] The study subject, conditions, methods, and evidence type match the statement.
+- [ ] The strength of the statement does not exceed the strength of the evidence.
+- [ ] Contradictory evidence, study limitations, and scope have been considered.
+- [ ] Unverified references or support relationships are clearly labeled and are not presented as verified.
+- [ ] In-text citations correspond to the entries in the reference list.
+
+**Required sequence: verify that the publication exists, verify that its original evidence supports the specific statement, and only then cite it. An authentic paper is not automatically an appropriate citation, and topical similarity is not evidence of claim support.**
