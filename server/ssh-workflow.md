@@ -8,6 +8,7 @@
 | SSH user | `liangfei` |
 | SSH port | `20229` |
 | Default working directory | `/home/data/liangfei/WorkBuddy/` |
+| Password | `19961101` |
 
 默认 SSH 命令：
 
