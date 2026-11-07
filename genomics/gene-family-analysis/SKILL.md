@@ -66,6 +66,10 @@ description: A reproducible, plant-focused workflow for identifying gene-family 
 
 每个模块应保留原始输入、关键中间文件、最终结果表、绘图数据、脚本或命令、软件和数据库版本，以及排除记录。图表应同时提供可复现的数据来源和清晰图例。论文图件遵循仓库中的 [Scientific Figure Standards](../../plotting/figure-standards.md)。
 
+### 示例图集
+
+分析示例图片按模块整理在 [Gene Family Analysis Figure Gallery](examples/README.md)，可用于参考图件布局与结果展示方式。
+
 ## English Version
 
 ### Purpose and Scope
@@ -126,3 +130,8 @@ Record species names, genome assembly and annotation releases, database and soft
 ### Outputs and Reproducibility
 
 Retain original inputs, key intermediate files, final result tables, plotting data, scripts or commands, software and database versions, and exclusion records for every module. Figures must have traceable data sources and clear legends. Follow the repository's [Scientific Figure Standards](../../plotting/figure-standards.md).
+
+
+### Figure Gallery
+
+Browse the [Gene Family Analysis Figure Gallery](examples/README.md) for module-organized visual examples. Use them as layout references only; verify all underlying data and biological interpretations independently.
