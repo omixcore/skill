@@ -4,6 +4,10 @@
 
 This standard applies to all deliverables created, edited, converted, or organized with AI assistance, including text, manuscripts, images, illustrations, charts, SVG, PDF, Word, PowerPoint, Excel, code, data files, and archives. Its purpose is to remove accidental generation artifacts and irrelevant information while ensuring that files remain clean, complete, editable, and reproducible—without compromising authenticity, copyright, or provenance.
 
+学术论文、综述和基金申请的语言编辑另须遵循 [`writing/ai-assisted-academic-editing.md`](../writing/ai-assisted-academic-editing.md)，该规范允许以清晰度、准确性和作者真实声音为目标进行编辑，但不允许以规避 AI 检测或隐瞒 AI 参与为目标改写。
+
+For academic manuscripts, reviews, and grant proposals, also follow [`writing/ai-assisted-academic-editing.md`](../writing/ai-assisted-academic-editing.md). It permits editing for clarity, accuracy, and the author's genuine voice, but not rewriting intended to evade AI detection or conceal AI involvement.
+
 ## 中文版
 
 ### 1. 总体要求
