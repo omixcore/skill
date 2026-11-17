@@ -79,7 +79,7 @@ Inspect the document as a whole for:
 
 Return a prioritized diagnosis before large-scale editing. Distinguish structural problems from sentence-level problems. Do not rewrite the whole document if a few targeted changes are sufficient.
 
-### 4. Taste — editorial judgment for product and interface writing
+### 4. Taste Skill — editorial judgment for product and interface writing
 
 Use for landing pages, product descriptions, UI text, onboarding, feature announcements, and brand or product copy.
 
@@ -111,7 +111,7 @@ Use when Chinese sounds like a machine translating or reciting a formal template
 - Allow restrained conversational phrasing only when the genre and audience permit it.
 - Do not add filler words, fake hesitation, internet slang, or intentional grammatical mistakes as a substitute for natural expression.
 
-### 7. Nuwa-style profile — consistent author voice
+### 7. Nuwa-skill — consistent author voice
 
 Use when the user wants repeated writing to reflect their own established style.
 
@@ -141,7 +141,7 @@ Use when the task includes more than polishing an isolated paragraph.
 
 Do not add research, citations, or claims that the user did not request and that cannot be verified.
 
-### 9. De-AI Prompt Enhancer — turn vague style requests into precise instructions
+### 9. De-AI-Prompt-Enhancer — turn vague style requests into precise instructions
 
 Use when a user says only “make it less AI-like” or wants a reusable editing prompt.
 
@@ -197,7 +197,7 @@ Choose the smallest useful combination from the nine modules. For example:
 - English abstract: Humanizer + academic fact-preservation checks.
 - Chinese public-account article: AI-flavor-remover + Shorenhua + Stop-slop.
 - Product landing page: Taste + Stop-slop.
-- Repeated author-specific work: Nuwa-style profile + the relevant language module.
+- Repeated author-specific work: Nuwa-skill + the relevant language module.
 - A vague “make this less AI-like” request: De-AI Prompt Enhancer, then the appropriate editing module.
 
 ### Step 4 — Edit in the right order
